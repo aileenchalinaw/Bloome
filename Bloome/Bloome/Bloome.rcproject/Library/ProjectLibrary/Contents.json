@@ -1,0 +1,47 @@
+[
+  {
+    "libraryIdentifier" : "3d1a3e6c0bf5443ba3b2035cebe0a4ba",
+    "format" : "model",
+    "displayName" : "Sunflower.usdz"
+  },
+  {
+    "libraryIdentifier" : "40d3301a72f3bbc41a25ec8dc98bee04",
+    "format" : "model",
+    "displayName" : "Rain_2.usdz"
+  },
+  {
+    "displayName" : "Sunflower_Seed.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "2ff0837c4c052cbba7fa7ba47d4fa5ee"
+  },
+  {
+    "displayName" : "Bloome-02.png",
+    "libraryIdentifier" : "5496851d12578a9c6a2132028fab63b2",
+    "format" : "image"
+  },
+  {
+    "displayName" : "Bloome-03.png",
+    "format" : "image",
+    "libraryIdentifier" : "e55cbc13168d0646b81ba73d3e4c3ee0"
+  },
+  {
+    "displayName" : "Bloome-04.png",
+    "format" : "image",
+    "libraryIdentifier" : "61e0ea7e8b576edb3741f5c6f477ee33"
+  },
+  {
+    "format" : "image",
+    "libraryIdentifier" : "915887db4298b3201f8335983b88b03a",
+    "displayName" : "Bloome-05.png"
+  },
+  {
+    "libraryIdentifier" : "38e4ffcb4def18f6ec0e96daf60d3858",
+    "format" : "image",
+    "displayName" : "Bloome-06.png"
+  },
+  {
+    "displayName" : "Bloome-07.png",
+    "libraryIdentifier" : "711c595233b471e3e8f025d24ef30f27",
+    "format" : "image"
+  }
+]
